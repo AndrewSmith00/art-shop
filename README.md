@@ -2,4 +2,4 @@
 Here's my pet-project build with Vue.js with responsible layout. 
 It's a simple one-page site of an abstract shop.
 Here I've made simple buttons that uses Local Storage and dynamic search form. Project using Vue components.
-You can check it out by this link: https://enchanting-faun-bf7b99.netlify.app
+You can check it out by this link: https://jolly-eclair-0a2ad2.netlify.app/
